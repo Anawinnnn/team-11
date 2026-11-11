@@ -24,6 +24,7 @@ body {
 
 .card-name {
   /* งาน 3: ตกแต่งชื่อในการ์ด เช่น color, font-size */
+  color: blue;
 }
 
 button {
